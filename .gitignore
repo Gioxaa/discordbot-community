@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# Environment variables
+.env
+
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
+
+# Optional: cache dan file temporary
+.cache/
+temp/
